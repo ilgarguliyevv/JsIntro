@@ -37,7 +37,7 @@
 // if (num1 < num2 < num3) {
 //   console.log(num3);
 // }
-
+///
 // let i = 17;
 
 // for (let i = 17; i <= 97; i = i + 10) {
@@ -76,11 +76,11 @@
 //   }
 // }
 
-let = 24;
+// let = 24;
 
-for (let i = 24; i <= 24; i++) {
-  console.log(i / 2);
-}
-if ((i = 24)) {
-  console.log(i / 2 / 2);
-}
+// for (let i = 24; i <= 24; i++) {
+//   console.log(i / 2);
+// }
+// if ((i = 24)) {
+//   console.log(i / 2 / 2);
+// }
