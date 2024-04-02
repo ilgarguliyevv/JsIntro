@@ -37,3 +37,50 @@
 // if (num1 < num2 < num3) {
 //   console.log(num3);
 // }
+
+// let i = 17;
+
+// for (let i = 17; i <= 97; i = i + 10) {
+//   console.log(i);
+// }
+
+// let i = 11;
+
+// for (let i = 11; i <= 99; i = i + 11) {
+//   console.log(i);
+// }
+
+// let str = "729";
+
+// for (let i = 0; i < str.length; i++) {
+//   console.log(str[i]);
+// }
+
+// let str = "729";
+
+// for (let i = 0; i < str.length; i++) {
+//   if ((i = i + 9)) {
+//     console.log(i, "en boyuk");
+//   } else console.log(`${str[i]} reqemi ${str} en boyuk reqemdir`);
+// }
+
+// let i = 534;
+
+// for (let i = 534; i <= 534; i++) {
+//   console.log("5" * "3" * "4");
+//   if ((i = 534)) {
+//     console.log(5 + 3 + 4);
+//   }
+//   if ((i = 534)) {
+//     console.log(5 + 3 + 4 / 3);
+//   }
+// }
+
+let = 24;
+
+for (let i = 24; i <= 24; i++) {
+  console.log(i / 2);
+}
+if ((i = 24)) {
+  console.log(i / 2 / 2);
+}
